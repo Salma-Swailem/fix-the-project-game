@@ -3,6 +3,7 @@
 def show_page():
     print("Header: Welcome!")
     print("Body: This is the main content.")
+    print("Footer: Thank you for visiting!")
 
 
 
