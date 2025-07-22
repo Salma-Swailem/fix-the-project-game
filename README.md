@@ -5,7 +5,7 @@ Welcome to the Broken Project! This repo is filled with bugs and missing feature
 ## 🕹️ Mission
 
 - Fork this repository
-- Each team is assigned a branch and abud/feature
+- Each team is assigned a branch and a bug/feature
 - Checkout to your assigned branch
 - Fix the bug or implement the feature
 - Push your changes to your fork
