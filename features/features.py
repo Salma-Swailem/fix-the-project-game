@@ -3,6 +3,7 @@
 def show_page():
     print("Header: Welcome!")
     print("Body: This is the main content.")
+    print("Footer: Thank you for visiting!")
 
 
 
@@ -11,3 +12,5 @@ def show_page():
 def set_theme(mode):
     if mode == "light":
         print("Light Mode Activated")
+    elif mode == "Dark":
+        print("Dark Mode Activated")
