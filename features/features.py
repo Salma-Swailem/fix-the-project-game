@@ -11,3 +11,5 @@ def show_page():
 def set_theme(mode):
     if mode == "light":
         print("Light Mode Activated")
+    elif mode == "Dark":
+        print("Dark Mode Activated")
