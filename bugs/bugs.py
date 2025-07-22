@@ -13,6 +13,7 @@ def login(user, password):
 
 def count_to_five():
     count = 0
-    for i in range():
+    for i in range(5):
         count = count + 2
     print("Final count is:", count)
+count_to_five()
